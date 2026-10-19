@@ -124,7 +124,7 @@ export default function Home() {
                 </h2>
               </div>
               <p className="text-lg text-primary-foreground/90">
-                Europe&apos;s most vibrant LGBTIQ+ Pride festival returns to Salobreña, Granada, Spain. Three days of world-class performances, cutting-edge artistry, and celebration.
+                Europe&apos;s most vibrant LGBTIQ+ Pride festival returns with three days of world-class performances, cutting-edge artistry, and celebration.
               </p>
               <a
                 href="https://salorgullo.com"
