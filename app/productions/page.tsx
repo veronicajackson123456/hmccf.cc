@@ -42,23 +42,10 @@ export default function Productions() {
 
         <div className="grid md:grid-cols-2 gap-12 items-start bg-card rounded-lg border border-border p-8 mb-12">
           <div className="space-y-6">
-            <div className="grid grid-cols-2 gap-4">
-              <div className="border-l-4 border-accent pl-4 space-y-1">
-                <div className="text-sm text-muted-foreground">Dates</div>
-                <div className="font-heading font-bold text-lg text-primary">3–5 July 2026</div>
-              </div>
-              <div className="border-l-4 border-accent pl-4 space-y-1">
-                <div className="text-sm text-muted-foreground">Location</div>
-                <div className="font-heading font-bold text-lg text-primary">
-                  Salobreña, Granada<br />Spain
-                </div>
-              </div>
-            </div>
-
             <div className="space-y-3">
               <h3 className="font-heading text-xl font-bold text-primary">About the Festival</h3>
               <p className="text-muted-foreground leading-relaxed">
-                HMCCF LTD produces and manages Salo Orgullo, an internationally recognized LGBTIQ+ Pride festival combining world-class performance, cutting-edge artistry, cultural celebration, and community solidarity. Attracting over 3,000 attendees from across Europe and beyond, it has become a cornerstone event in the European Pride calendar.
+                HMCCF LTD produces and manages Salo Orgullo, an internationally recognized LGBTIQ+ Pride festival combining world-class performance, cutting-edge artistry, cultural celebration, and community solidarity. It has become a cornerstone event in the European Pride calendar.
               </p>
             </div>
 
@@ -146,7 +133,7 @@ export default function Productions() {
               year: '2025',
               title: 'Salo Orgullo 3rd Edition',
               description: 'Establishing itself as Europe\'s leading LGBTIQ+ Pride festival.',
-              stats: '3,000+ attendees',
+              stats: 'International audience',
             },
           ].map((edition, idx) => (
             <div

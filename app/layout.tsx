@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'HMCCF LTD - Theatre Production & Event Promotion',
-  description: 'Premium UK theatre production and international event promotion company. Salo Orgullo 5th Edition 2026.',
+  description: 'Premium theatre production and international event promotion company.',
   icons: {
     icon: '/hmccf-logo.png',
     apple: '/hmccf-logo.png',
