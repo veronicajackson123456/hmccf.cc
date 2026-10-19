@@ -22,7 +22,7 @@ export default function Sponsors() {
 
   const institutionalPartners = [
     {
-      name: 'Salobreña Municipality',
+      name: 'Community Partners',
       logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202026-06-07%20200812-ZgIKb650r7G6oYVbgJ7CsP4hqerf6v.png',
     },
     {
@@ -145,7 +145,7 @@ export default function Sponsors() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-4 gap-8">
             {[
-              { stat: '3,000+', label: 'Annual Attendees' },
+              { stat: 'International', label: 'Audience Reach' },
               { stat: 'International', label: 'Visitors from Across Europe' },
               { stat: '4', label: 'Successful Festival Editions' },
               { stat: 'Growing', label: 'International Recognition' },
@@ -203,7 +203,7 @@ export default function Sponsors() {
             {[
               {
                 title: 'International Reach',
-                description: '3,000+ attendees from across Europe and strategic global visibility.',
+                description: 'International attendees and strategic global visibility.',
               },
               {
                 title: 'Premium Brand Association',

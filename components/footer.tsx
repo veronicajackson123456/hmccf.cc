@@ -23,7 +23,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-sm text-primary-foreground/80">
-              Premium theatre production and international event promotion company with UK and Spanish operations.
+              Premium theatre production and international event promotion company.
             </p>
             <div className="text-sm text-primary-foreground/80">
               <p>www.hmccf.cc</p>

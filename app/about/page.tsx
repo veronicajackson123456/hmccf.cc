@@ -38,7 +38,7 @@ export default function About() {
                 With over a decade of experience in theatre production and international event management, we bridge the vibrant cultural landscapes of the UK and Spain. Our team brings together world-class expertise in theatrical production, festival management, and corporate entertainment.
               </p>
               <p>
-                Our flagship event, Salo Orgullo—Europe&apos;s premier LGBTIQ+ Pride festival—attracts thousands of visitors annually to Salobreña, Granada, Spain, celebrating artistic expression, cultural diversity, and community.
+                Our flagship event, Salo Orgullo—Europe&apos;s premier LGBTIQ+ Pride festival—celebrates artistic expression, cultural diversity, and community.
               </p>
               <p>
                 We are committed to creating transformative cultural experiences that inspire, entertain, and build lasting connections.
@@ -223,12 +223,12 @@ export default function About() {
             </p>
             <ul className="space-y-3">
               {[
-                '3,000+ international attendees annually',
+                'International audience and cultural impact',
                 '4 successful editions (2023–2026)',
                 'Featured artists from 15+ countries',
                 'Strategic partnerships with international brands',
-                'Growing economic impact for Salobreña, Granada',
-                '5th Edition set for July 2026 with expanded programming',
+                'Growing cultural impact through the arts',
+                '5th Edition with expanded programming',
               ].map((item, idx) => (
                 <li key={idx} className="flex gap-3 items-start">
                   <span className="text-accent font-bold mt-1">✓</span>

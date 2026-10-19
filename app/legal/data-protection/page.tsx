@@ -239,7 +239,7 @@ export default function DataProtection() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">9. International Data Transfers</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              HMCCF LTD transfers personal data to Spain for the coordination and promotion of the Salo Orgullo Festival in Salobreña, Granada. Such transfers are made:
+              HMCCF LTD may transfer personal data internationally for the coordination and promotion of its events. Such transfers are made:
             </p>
             <ul className="space-y-2 text-gray-300">
               <li className="flex gap-3">

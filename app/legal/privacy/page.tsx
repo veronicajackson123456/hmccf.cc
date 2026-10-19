@@ -211,7 +211,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">9. International Data Transfers</h2>
             <p className="text-gray-300 leading-relaxed">
-              As a UK company promoting events in Spain (Salo Orgullo Festival in Salobreña, Granada), we may transfer personal data to Spain for event coordination and promotional purposes. Such transfers are made in accordance with UK GDPR and appropriate safeguards are in place.
+              We may transfer personal data internationally for event coordination and promotional purposes. Such transfers are made in accordance with UK GDPR and appropriate safeguards are in place.
             </p>
           </section>
 

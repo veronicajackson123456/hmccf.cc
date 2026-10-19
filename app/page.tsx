@@ -37,7 +37,7 @@ export default function Home() {
           </h1>
           
           <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto text-pretty">
-            UK & Spain | Salo Orgullo 5th Edition • 3–5 July 2026, Salobreña, Granada
+            Salo Orgullo 5th Edition
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-8">
@@ -117,28 +117,14 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <div>
-                <div className="text-accent font-heading font-bold text-lg mb-2">5th Edition</div>
+                <div className="text-accent font-heading font-bold text-lg mb-2">Our Experience</div>
                 <h2 className="font-heading text-4xl md:text-5xl font-bold">
-                  Salo Orgullo 2026
+                  5th Edition Salo Orgullo
                 </h2>
               </div>
               <p className="text-lg text-primary-foreground/90">
-                Europe&apos;s most vibrant LGBTIQ+ Pride festival returns to Salobreña, Granada, Spain. Three days of world-class performances, cutting-edge artistry, and celebration.
+                Europe&apos;s most vibrant LGBTIQ+ Pride festival returns with three days of world-class performances, cutting-edge artistry, and celebration.
               </p>
-              <div className="space-y-3 text-primary-foreground/80">
-                <div className="flex gap-3">
-                  <span className="text-accent font-bold">📅</span>
-                  <span>3–5 July 2026</span>
-                </div>
-                <div className="flex gap-3">
-                  <span className="text-accent font-bold">📍</span>
-                  <span>Salobreña, Granada, Spain</span>
-                </div>
-                <div className="flex gap-3">
-                  <span className="text-accent font-bold">✨</span>
-                  <span>3,000+ international attendees expected</span>
-                </div>
-              </div>
               <a
                 href="https://salorgullo.com"
                 target="_blank"
