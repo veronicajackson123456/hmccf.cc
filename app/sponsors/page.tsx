@@ -91,7 +91,7 @@ export default function Sponsors() {
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <div className="prose max-w-none mb-20">
           <p className="text-lg text-muted-foreground leading-relaxed">
-            HMCBP LTD works with commercial sponsors, cultural organisations, public institutions and strategic partners to deliver Salo Orgullo and other international cultural events. These partnerships help support artistic programming, audience development and community engagement across Europe.
+            HMCCF LTD works with commercial sponsors, cultural organisations, public institutions and strategic partners to deliver Salo Orgullo and other international cultural events. These partnerships help support artistic programming, audience development and community engagement across Europe.
           </p>
         </div>
 
@@ -198,7 +198,7 @@ export default function Sponsors() {
       {/* Partnership Benefits */}
       <section className="py-20 px-6 max-w-7xl mx-auto">
         <div className="bg-card border border-border rounded-lg p-12 space-y-8">
-          <h2 className="font-heading text-3xl font-bold text-primary">Why Partner With HMCBP LTD?</h2>
+          <h2 className="font-heading text-3xl font-bold text-primary">Why Partner With HMCCF LTD?</h2>
           <div className="grid md:grid-cols-2 gap-8">
             {[
               {
@@ -237,7 +237,7 @@ export default function Sponsors() {
             Contact us to discuss partnership opportunities and custom sponsorship packages.
           </p>
           <a
-            href="mailto:info@hmcbpltd.net"
+            href="mailto:Info@hmccf.cc"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-medium hover:shadow-lg hover:scale-105 transition-all duration-300"
           >
             Contact Us

@@ -33,7 +33,7 @@ export default function Contact() {
         <div className="absolute inset-0 z-0">
           <Image
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SALORGULLO-1er-DIA-062-NuW0Rtg8eSLTwnVS5pLcux8LO8CUmh.jpg"
-            alt="Contact HMCBP"
+            alt="Contact HMCCF"
             fill
             className="object-cover brightness-40"
           />
@@ -54,7 +54,7 @@ export default function Contact() {
             <div>
               <h2 className="font-heading text-3xl font-bold text-primary mb-4">Contact Information</h2>
               <p className="text-lg text-muted-foreground">
-                Reach out to HMCBP LTD to discuss your theatrical production, event, or partnership opportunity.
+                Reach out to HMCCF LTD to discuss your theatrical production, event, or partnership opportunity.
               </p>
             </div>
 
@@ -67,10 +67,10 @@ export default function Contact() {
                 <div>
                   <h3 className="font-heading font-bold text-primary mb-1">Email</h3>
                   <a
-                    href="mailto:info@hmcbpltd.net"
+                    href="mailto:Info@hmccf.cc"
                     className="text-muted-foreground hover:text-accent transition-colors"
                   >
-                    info@hmcbpltd.net
+                    Info@hmccf.cc
                   </a>
                 </div>
               </div>
@@ -81,12 +81,18 @@ export default function Contact() {
                   <Phone size={24} />
                 </div>
                 <div>
-                  <h3 className="font-heading font-bold text-primary mb-1">Phone</h3>
+<h3 className="font-heading font-bold text-primary mb-1">Phone</h3>
                   <a
-                    href="tel:+441234567890"
-                    className="text-muted-foreground hover:text-accent transition-colors"
+                    href="tel:+447918459275"
+                    className="text-muted-foreground hover:text-accent transition-colors block"
                   >
-                    +44 (0) 123 456 7890
+                    +44 (0) 7918 459275
+                  </a>
+                  <a
+                    href="tel:03000141056"
+                    className="text-muted-foreground hover:text-accent transition-colors block"
+                  >
+                    03000 141056 (Office)
                   </a>
                 </div>
               </div>
@@ -99,8 +105,9 @@ export default function Contact() {
                 <div>
                   <h3 className="font-heading font-bold text-primary mb-1">Office Address</h3>
                   <p className="text-muted-foreground">
-                    London, United Kingdom<br />
-                    <span className="text-sm">Company Registration: [TO BE INSERTED]</span>
+                    Suite 105 Fence House, Fence Avenue<br />
+                    Macclesfield, United Kingdom, SK10 1LT<br />
+                    <span className="text-sm">Company number: 17522756</span>
                   </p>
                 </div>
               </div>
@@ -194,7 +201,7 @@ export default function Contact() {
                   value={formData.phone}
                   onChange={handleChange}
                   className="w-full px-4 py-3 border border-border rounded-lg bg-background focus:outline-none focus:ring-2 focus:ring-accent transition-all"
-                  placeholder="+44 (0) 123 456 7890"
+                  placeholder="+44 (0) 7918 459275"
                 />
               </div>
 
@@ -295,7 +302,7 @@ export default function Contact() {
             Contact us today and let&apos;s start the conversation about your next project.
           </p>
           <a
-            href="mailto:info@hmcbpltd.net"
+            href="mailto:Info@hmccf.cc"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-medium hover:shadow-lg hover:scale-105 transition-all duration-300"
           >
             Email Us Now

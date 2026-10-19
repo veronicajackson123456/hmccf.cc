@@ -15,8 +15,8 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="inline-block hover:opacity-90 transition-opacity">
               <Image
-                src="/logo-gold.png"
-                alt="HMCBP LTD"
+                src="/hmccf-logo.png"
+                alt="HMCCF LTD"
                 width={140}
                 height={60}
                 className="h-16 w-auto"
@@ -26,7 +26,7 @@ export default function Footer() {
               Premium theatre production and international event promotion company with UK and Spanish operations.
             </p>
             <div className="text-sm text-primary-foreground/80">
-              <p>www.hmcbpltd.net</p>
+              <p>www.hmccf.cc</p>
             </div>
           </div>
 
@@ -68,19 +68,19 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex gap-3 items-start">
                 <Mail size={16} className="mt-0.5 flex-shrink-0" />
-                <a href="mailto:info@hmcbpltd.net" className="hover:text-accent transition-colors">
-                  info@hmcbpltd.net
+                <a href="mailto:Info@hmccf.cc" className="hover:text-accent transition-colors">
+                  Info@hmccf.cc
                 </a>
               </li>
               <li className="flex gap-3 items-start">
                 <Phone size={16} className="mt-0.5 flex-shrink-0" />
-                <a href="tel:+441234567890" className="hover:text-accent transition-colors">
-                  +44 (0) 123 456 7890
+                <a href="tel:+447918459275" className="hover:text-accent transition-colors">
+                  +44 (0) 7918 459275
                 </a>
               </li>
               <li className="flex gap-3 items-start">
                 <MapPin size={16} className="mt-0.5 flex-shrink-0" />
-                <span>London, United Kingdom</span>
+                <span>Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</span>
               </li>
             </ul>
           </div>
@@ -117,7 +117,7 @@ export default function Footer() {
         <div className="border-t border-accent/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/70">
             <p>
-              &copy; {currentYear} HMCBP LTD. All rights reserved. | Company registration: [TO BE INSERTED]
+              &copy; {currentYear} HMCCF LTD. All rights reserved. | Company number: 17522756
             </p>
             <p className="text-xs">
               Crafted with precision and elegance

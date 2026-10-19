@@ -23,8 +23,8 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group hover:opacity-90 transition-opacity">
           <Image
-            src="/logo-gold.png"
-            alt="HMCBP LTD Logo"
+            src="/hmccf-logo.png"
+            alt="HMCCF LTD Logo"
             width={160}
             height={70}
             className="h-16 w-auto"

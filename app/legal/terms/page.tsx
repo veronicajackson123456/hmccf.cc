@@ -27,7 +27,7 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">1. Introduction</h2>
             <p className="text-gray-300 leading-relaxed">
-              These Terms & Conditions ("Terms") govern your access to and use of the website operated by HMCBP LTD ("we", "our", "us", or "Company"). By accessing this website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the website.
+              These Terms & Conditions ("Terms") govern your access to and use of the website operated by HMCCF LTD ("we", "our", "us", or "Company"). By accessing this website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the website.
             </p>
           </section>
 
@@ -69,10 +69,10 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">3. Intellectual Property Rights</h2>
             <p className="text-gray-300 leading-relaxed">
-              All content on this website, including text, graphics, logos, images, and software, is the property of HMCBP LTD or its content suppliers and is protected by international copyright laws. Unauthorised reproduction or distribution is prohibited.
+              All content on this website, including text, graphics, logos, images, and software, is the property of HMCCF LTD or its content suppliers and is protected by international copyright laws. Unauthorised reproduction or distribution is prohibited.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
-              Photographs, artwork, and documentation related to theatrical productions and the Salo Orgullo Festival are the intellectual property of HMCBP LTD or their respective creators and may not be reproduced without permission.
+              Photographs, artwork, and documentation related to theatrical productions and the Salo Orgullo Festival are the intellectual property of HMCCF LTD or their respective creators and may not be reproduced without permission.
             </p>
           </section>
 
@@ -80,7 +80,7 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">4. Disclaimer of Warranties</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              This website and all materials are provided on an "as-is" and "as-available" basis. HMCBP LTD makes no warranties, expressed or implied, regarding:
+              This website and all materials are provided on an "as-is" and "as-available" basis. HMCCF LTD makes no warranties, expressed or implied, regarding:
             </p>
             <ul className="space-y-2 text-gray-300">
               <li className="flex gap-3">
@@ -106,7 +106,7 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">5. Limitation of Liability</h2>
             <p className="text-gray-300 leading-relaxed">
-              To the fullest extent permitted by law, HMCBP LTD shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or business, arising from your use of or inability to use this website, even if we have been advised of the possibility of such damages.
+              To the fullest extent permitted by law, HMCCF LTD shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or business, arising from your use of or inability to use this website, even if we have been advised of the possibility of such damages.
             </p>
           </section>
 
@@ -178,7 +178,7 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">9. Indemnification</h2>
             <p className="text-gray-300 leading-relaxed">
-              You agree to indemnify, defend, and hold harmless HMCBP LTD, its directors, employees, and agents from any claims, damages, losses, or expenses (including legal fees) arising from your use of this website, breach of these Terms, or violation of any law or third-party rights.
+              You agree to indemnify, defend, and hold harmless HMCCF LTD, its directors, employees, and agents from any claims, damages, losses, or expenses (including legal fees) arising from your use of this website, breach of these Terms, or violation of any law or third-party rights.
             </p>
           </section>
 
@@ -202,7 +202,7 @@ export default function TermsAndConditions() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">12. Entire Agreement</h2>
             <p className="text-gray-300 leading-relaxed">
-              These Terms, along with our Privacy Policy and Cookie Policy, constitute the entire agreement between you and HMCBP LTD regarding your use of this website. If any provision of these Terms is found to be unenforceable, the remaining provisions shall remain in effect.
+              These Terms, along with our Privacy Policy and Cookie Policy, constitute the entire agreement between you and HMCCF LTD regarding your use of this website. If any provision of these Terms is found to be unenforceable, the remaining provisions shall remain in effect.
             </p>
           </section>
 
@@ -221,10 +221,10 @@ export default function TermsAndConditions() {
               If you have questions about these Terms, please contact:
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>HMCBP LTD</strong></p>
+              <p><strong>HMCCF LTD</strong></p>
               <p>Director: Óscar Contreras Bárcena</p>
-              <p className="mt-3">Email: [TO BE INSERTED]</p>
-              <p>Registered Office: [TO BE INSERTED]</p>
+              <p className="mt-3">Email: Info@hmccf.cc</p>
+              <p>Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</p>
             </div>
           </section>
         </div>
@@ -232,9 +232,9 @@ export default function TermsAndConditions() {
         {/* Footer */}
         <div className="border-t border-purple-500/20 mt-16 pt-8 text-center text-sm text-gray-500">
           <p>
-            HMCBP LTD. Registered in England & Wales. Company Number: [TO BE INSERTED]. 
+            HMCCF LTD. Registered in England & Wales. Company Number: 17522756. 
             <br />
-            Registered Office: [TO BE INSERTED].
+            Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT.
           </p>
         </div>
       </div>
