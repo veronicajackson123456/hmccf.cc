@@ -58,7 +58,7 @@ export default function Productions() {
             <div className="space-y-3">
               <h3 className="font-heading text-xl font-bold text-primary">About the Festival</h3>
               <p className="text-muted-foreground leading-relaxed">
-                HMCBP LTD produces and manages Salo Orgullo, an internationally recognized LGBTIQ+ Pride festival combining world-class performance, cutting-edge artistry, cultural celebration, and community solidarity. Attracting over 3,000 attendees from across Europe and beyond, it has become a cornerstone event in the European Pride calendar.
+                HMCCF LTD produces and manages Salo Orgullo, an internationally recognized LGBTIQ+ Pride festival combining world-class performance, cutting-edge artistry, cultural celebration, and community solidarity. Attracting over 3,000 attendees from across Europe and beyond, it has become a cornerstone event in the European Pride calendar.
               </p>
             </div>
 

@@ -27,10 +27,10 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">1. Introduction</h2>
             <p className="text-gray-300 leading-relaxed">
-              HMCBP LTD ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process your personal data in connection with this website and our services.
+              HMCCF LTD ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process your personal data in connection with this website and our services.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              We are the data controller responsible for your personal information. Our registered office is [TO BE INSERTED]. If you have any questions about our privacy practices, please contact us at the address provided in the "Contact Us" section below.
+              We are the data controller responsible for your personal information. Our registered office is Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT. If you have any questions about our privacy practices, please contact us at the address provided in the "Contact Us" section below.
             </p>
           </section>
 
@@ -230,10 +230,10 @@ export default function PrivacyPolicy() {
               If you have questions about this Privacy Policy or wish to exercise your data rights, please contact:
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>HMCBP LTD</strong></p>
+              <p><strong>HMCCF LTD</strong></p>
               <p>Director: Óscar Contreras Bárcena</p>
-              <p className="mt-3">Email: [TO BE INSERTED]</p>
-              <p>Registered Office: [TO BE INSERTED]</p>
+              <p className="mt-3">Email: Info@hmccf.cc</p>
+              <p>Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</p>
               <p className="mt-4 text-sm">
                 You also have the right to lodge a complaint with the Information Commissioner&apos;s Office (ICO) at ico.org.uk.
               </p>
@@ -252,9 +252,9 @@ export default function PrivacyPolicy() {
         {/* Footer */}
         <div className="border-t border-purple-500/20 mt-16 pt-8 text-center text-sm text-gray-500">
           <p>
-            HMCBP LTD. Registered in England & Wales. Company Number: [TO BE INSERTED]. 
+            HMCCF LTD. Registered in England & Wales. Company Number: 17522756. 
             <br />
-            Registered Office: [TO BE INSERTED].
+            Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT.
           </p>
         </div>
       </div>

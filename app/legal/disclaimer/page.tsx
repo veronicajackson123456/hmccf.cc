@@ -27,7 +27,7 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">1. General Disclaimer</h2>
             <p className="text-gray-300 leading-relaxed">
-              This website and all content provided by HMCBP LTD are for informational and promotional purposes only. While we make every effort to provide accurate and up-to-date information, we do not warrant that the information is complete, accurate, or suitable for any particular purpose.
+              This website and all content provided by HMCCF LTD are for informational and promotional purposes only. While we make every effort to provide accurate and up-to-date information, we do not warrant that the information is complete, accurate, or suitable for any particular purpose.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
               The information on this website is provided "as is" without warranty of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
@@ -63,7 +63,7 @@ export default function Disclaimer() {
               </li>
             </ul>
             <p className="text-gray-300 leading-relaxed mt-4">
-              HMCBP LTD is not responsible for the content, accuracy, legality, or practices of these external websites. We do not endorse or affiliate with these third parties. Your use of third-party websites is at your own risk and governed by their own terms of service and privacy policies.
+              HMCCF LTD is not responsible for the content, accuracy, legality, or practices of these external websites. We do not endorse or affiliate with these third parties. Your use of third-party websites is at your own risk and governed by their own terms of service and privacy policies.
             </p>
           </section>
 
@@ -71,7 +71,7 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">4. Events and Productions</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              HMCBP LTD promotes theatrical productions and cultural events, including the Salo Orgullo LGBTIQ+ Pride Festival. We disclaim liability for:
+              HMCCF LTD promotes theatrical productions and cultural events, including the Salo Orgullo LGBTIQ+ Pride Festival. We disclaim liability for:
             </p>
             <ul className="space-y-2 text-gray-300">
               <li className="flex gap-3">
@@ -104,10 +104,10 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">5. Intellectual Property</h2>
             <p className="text-gray-300 leading-relaxed">
-              All content on this website, including text, graphics, logos, images, photographs, videos, and software, is the intellectual property of HMCBP LTD or its content suppliers and is protected by copyright law.
+              All content on this website, including text, graphics, logos, images, photographs, videos, and software, is the intellectual property of HMCCF LTD or its content suppliers and is protected by copyright law.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
-              Photographs from theatrical productions and the Salo Orgullo Festival are the exclusive property of HMCBP LTD or the photographers and may not be reproduced, distributed, or used without explicit written permission.
+              Photographs from theatrical productions and the Salo Orgullo Festival are the exclusive property of HMCCF LTD or the photographers and may not be reproduced, distributed, or used without explicit written permission.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
               You are not permitted to download, copy, modify, or distribute any content without permission.
@@ -118,7 +118,7 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">6. Limitation of Liability</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              To the fullest extent permitted by law, HMCBP LTD shall not be liable for:
+              To the fullest extent permitted by law, HMCCF LTD shall not be liable for:
             </p>
             <ul className="space-y-2 text-gray-300">
               <li className="flex gap-3">
@@ -143,7 +143,7 @@ export default function Disclaimer() {
               </li>
             </ul>
             <p className="text-gray-300 leading-relaxed mt-4">
-              This limitation applies even if HMCBP LTD has been advised of the possibility of such damages.
+              This limitation applies even if HMCCF LTD has been advised of the possibility of such damages.
             </p>
           </section>
 
@@ -184,7 +184,7 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">9. User-Generated Content</h2>
             <p className="text-gray-300 leading-relaxed">
-              Any content you submit through our contact form or any other channel becomes the property of HMCBP LTD. We reserve the right to use, publish, or distribute such content without compensation or liability to you. By submitting content, you represent that you own the rights to that content.
+              Any content you submit through our contact form or any other channel becomes the property of HMCCF LTD. We reserve the right to use, publish, or distribute such content without compensation or liability to you. By submitting content, you represent that you own the rights to that content.
             </p>
           </section>
 
@@ -192,7 +192,7 @@ export default function Disclaimer() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">10. Health and Safety</h2>
             <p className="text-gray-300 leading-relaxed">
-              Event attendees are responsible for their own health and safety. If you have medical conditions, disabilities, or accessibility requirements, please contact the event organisers directly. HMCBP LTD is not liable for any health-related incidents or complications arising from event attendance.
+              Event attendees are responsible for their own health and safety. If you have medical conditions, disabilities, or accessibility requirements, please contact the event organisers directly. HMCCF LTD is not liable for any health-related incidents or complications arising from event attendance.
             </p>
           </section>
 
@@ -211,10 +211,10 @@ export default function Disclaimer() {
               If you have questions about this disclaimer, please contact:
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>HMCBP LTD</strong></p>
+              <p><strong>HMCCF LTD</strong></p>
               <p>Director: Óscar Contreras Bárcena</p>
-              <p className="mt-3">Email: [TO BE INSERTED]</p>
-              <p>Registered Office: [TO BE INSERTED]</p>
+              <p className="mt-3">Email: Info@hmccf.cc</p>
+              <p>Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</p>
             </div>
           </section>
         </div>
@@ -222,9 +222,9 @@ export default function Disclaimer() {
         {/* Footer */}
         <div className="border-t border-purple-500/20 mt-16 pt-8 text-center text-sm text-gray-500">
           <p>
-            HMCBP LTD. Registered in England & Wales. Company Number: [TO BE INSERTED]. 
+            HMCCF LTD. Registered in England & Wales. Company Number: 17522756. 
             <br />
-            Registered Office: [TO BE INSERTED].
+            Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT.
           </p>
         </div>
       </div>

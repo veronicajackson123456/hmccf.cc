@@ -12,13 +12,13 @@ export default function About() {
         <div className="absolute inset-0 z-0">
           <Image
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SALORGULLO-1er-DIA-062-NuW0Rtg8eSLTwnVS5pLcux8LO8CUmh.jpg"
-            alt="About HMCBP"
+            alt="About HMCCF"
             fill
             className="object-cover brightness-40"
           />
         </div>
         <div className="relative z-10 text-center space-y-4 px-6">
-          <h1 className="font-heading text-5xl md:text-6xl font-bold">About HMCBP LTD</h1>
+          <h1 className="font-heading text-5xl md:text-6xl font-bold">About HMCCF LTD</h1>
           <p className="text-xl text-primary-foreground/90">
             Excellence in Theatre Production & International Event Promotion
           </p>
@@ -32,7 +32,7 @@ export default function About() {
             <h2 className="font-heading text-4xl font-bold text-primary">Our Story</h2>
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                HMCBP LTD is a UK-registered theatre production and international event promotion company founded on the principles of artistic excellence, cultural celebration, and professional integrity.
+                HMCCF LTD is a UK-registered theatre production and international event promotion company founded on the principles of artistic excellence, cultural celebration, and professional integrity.
               </p>
               <p>
                 With over a decade of experience in theatre production and international event management, we bridge the vibrant cultural landscapes of the UK and Spain. Our team brings together world-class expertise in theatrical production, festival management, and corporate entertainment.
@@ -84,7 +84,7 @@ export default function About() {
                   His productions have featured at major venues including the Alvin Ailey American Dance Theater, Teatros del Canal, and numerous international festivals. Óscar is recognized for combining artistic vision with operational excellence, creating culturally significant events that resonate globally.
                 </p>
                 <p>
-                  With a deep commitment to LGBTIQ+ rights, cultural diversity, and artistic innovation, Óscar continues to lead HMCBP LTD and Salo Orgullo toward new heights of excellence.
+                  With a deep commitment to LGBTIQ+ rights, cultural diversity, and artistic innovation, Óscar continues to lead HMCCF LTD and Salo Orgullo toward new heights of excellence.
                 </p>
               </div>
               <div className="flex gap-4 pt-4">
@@ -167,7 +167,7 @@ export default function About() {
           </div>
           <div className="bg-card border-2 border-accent rounded-lg p-8 space-y-4 text-lg text-muted-foreground leading-relaxed">
             <p>
-              At the heart of HMCBP LTD lies our commitment to <span className="font-semibold text-primary">Producciones Honestas</span> — honest, transparent, and ethical productions that prioritize artistry, community benefit, and cultural impact.
+              At the heart of HMCCF LTD lies our commitment to <span className="font-semibold text-primary">Producciones Honestas</span> — honest, transparent, and ethical productions that prioritize artistry, community benefit, and cultural impact.
             </p>
             <p>
               We believe in:
@@ -247,7 +247,7 @@ export default function About() {
             Ready to Work Together?
           </h2>
           <p className="text-lg text-primary-foreground/90">
-            Let's discuss how HMCBP LTD can bring your theatrical or event vision to life.
+            Let's discuss how HMCCF LTD can bring your theatrical or event vision to life.
           </p>
           <Link
             href="/contact"

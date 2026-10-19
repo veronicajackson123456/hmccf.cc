@@ -27,7 +27,7 @@ export default function DataProtection() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">1. Our Commitment to Data Protection</h2>
             <p className="text-gray-300 leading-relaxed">
-              HMCBP LTD is committed to complying with the UK General Data Protection Regulation (UK GDPR) and all applicable UK data protection laws. We take your privacy seriously and implement robust measures to protect your personal data from unauthorised access, processing, and loss.
+              HMCCF LTD is committed to complying with the UK General Data Protection Regulation (UK GDPR) and all applicable UK data protection laws. We take your privacy seriously and implement robust measures to protect your personal data from unauthorised access, processing, and loss.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
               This Data Protection Statement provides detailed information about how we comply with UK GDPR and other data protection regulations.
@@ -38,7 +38,7 @@ export default function DataProtection() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">2. UK GDPR Overview</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              The UK General Data Protection Regulation (UK GDPR) is the UK's principal data protection law that governs how organisations process personal data. As a UK company, HMCBP LTD is subject to UK GDPR and the Data Protection Act 2018 (as amended).
+              The UK General Data Protection Regulation (UK GDPR) is the UK's principal data protection law that governs how organisations process personal data. As a UK company, HMCCF LTD is subject to UK GDPR and the Data Protection Act 2018 (as amended).
             </p>
             <p className="text-gray-300 leading-relaxed">
               Key principles of UK GDPR that we follow:
@@ -75,15 +75,15 @@ export default function DataProtection() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">3. Data Controller Information</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              HMCBP LTD is the data controller for all personal data collected through this website.
+              HMCCF LTD is the data controller for all personal data collected through this website.
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>Data Controller:</strong> HMCBP LTD</p>
+              <p><strong>Data Controller:</strong> HMCCF LTD</p>
               <p className="mt-2">Director: Óscar Contreras Bárcena</p>
               <p className="mt-3">Registered in England & Wales</p>
-              <p>Company Number: [TO BE INSERTED]</p>
-              <p>Registered Office: [TO BE INSERTED]</p>
-              <p className="mt-3">Email: [TO BE INSERTED]</p>
+              <p>Company Number: 17522756</p>
+              <p>Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</p>
+              <p className="mt-3">Email: Info@hmccf.cc</p>
             </div>
           </section>
 
@@ -211,8 +211,8 @@ export default function DataProtection() {
               To exercise any of the rights listed above, please submit a written request to:
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>HMCBP LTD - Data Subject Rights</strong></p>
-              <p className="mt-2">Email: [TO BE INSERTED]</p>
+              <p><strong>HMCCF LTD - Data Subject Rights</strong></p>
+              <p className="mt-2">Email: Info@hmccf.cc</p>
               <p className="mt-4 text-sm">
                 Please provide sufficient information to identify you (e.g., name, email address used for contact). We will verify your identity before responding. You are not required to pay a fee, unless your request is manifestly unfounded or excessive. We will respond within 30 days (extendable to 60 days for complex requests).
               </p>
@@ -239,7 +239,7 @@ export default function DataProtection() {
           <section>
             <h2 className="text-2xl font-serif font-bold text-white mb-4">9. International Data Transfers</h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              HMCBP LTD transfers personal data to Spain for the coordination and promotion of the Salo Orgullo Festival in Salobreña, Granada. Such transfers are made:
+              HMCCF LTD transfers personal data to Spain for the coordination and promotion of the Salo Orgullo Festival in Salobreña, Granada. Such transfers are made:
             </p>
             <ul className="space-y-2 text-gray-300">
               <li className="flex gap-3">
@@ -317,10 +317,10 @@ export default function DataProtection() {
               If you have questions about our data protection practices, please contact:
             </p>
             <div className="bg-purple-900/20 border border-purple-500/30 rounded-lg p-6 text-gray-300">
-              <p><strong>HMCBP LTD - Data Protection</strong></p>
+              <p><strong>HMCCF LTD - Data Protection</strong></p>
               <p>Director: Óscar Contreras Bárcena</p>
-              <p className="mt-3">Email: [TO BE INSERTED]</p>
-              <p>Registered Office: [TO BE INSERTED]</p>
+              <p className="mt-3">Email: Info@hmccf.cc</p>
+              <p>Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT</p>
             </div>
           </section>
         </div>
@@ -328,9 +328,9 @@ export default function DataProtection() {
         {/* Footer */}
         <div className="border-t border-purple-500/20 mt-16 pt-8 text-center text-sm text-gray-500">
           <p>
-            HMCBP LTD. Registered in England & Wales. Company Number: [TO BE INSERTED]. 
+            HMCCF LTD. Registered in England & Wales. Company Number: 17522756. 
             <br />
-            Registered Office: [TO BE INSERTED].
+            Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT.
           </p>
         </div>
       </div>

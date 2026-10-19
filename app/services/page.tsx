@@ -67,7 +67,7 @@ export default function Services() {
       {/* Services Grid */}
       <section className="py-20 px-6 max-w-7xl mx-auto">
         <p className="text-center text-lg text-muted-foreground max-w-3xl mx-auto mb-16">
-          From initial concept through premiere, HMCBP LTD provides world-class production services across theatre, festivals, and international events.
+          From initial concept through premiere, HMCCF LTD provides world-class production services across theatre, festivals, and international events.
         </p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -143,7 +143,7 @@ export default function Services() {
       {/* Why Choose Us */}
       <section className="py-20 px-6 max-w-7xl mx-auto">
         <h2 className="font-heading text-4xl font-bold text-primary mb-12 text-center">
-          Why Choose HMCBP LTD
+          Why Choose HMCCF LTD
         </h2>
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
@@ -235,7 +235,7 @@ export default function Services() {
             Let&apos;s Bring Your Project to Life
           </h2>
           <p className="text-lg text-primary-foreground/90">
-            Contact our team to discuss how HMCBP LTD can support your theatrical or event goals.
+            Contact our team to discuss how HMCCF LTD can support your theatrical or event goals.
           </p>
           <Link
             href="/contact"

@@ -61,7 +61,7 @@ export default function LegalHub() {
             Legal Documents
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            HMCBP LTD is committed to transparency and compliance. Here you'll find all our legal documents and policies.
+            HMCCF LTD is committed to transparency and compliance. Here you'll find all our legal documents and policies.
           </p>
         </div>
 
@@ -109,9 +109,9 @@ export default function LegalHub() {
       <div className="border-t border-purple-500/20 bg-black/40 backdrop-blur-sm mt-16">
         <div className="max-w-5xl mx-auto px-6 py-8 text-center text-sm text-gray-500">
           <p>
-            HMCBP LTD. Registered in England & Wales. Company Number: [TO BE INSERTED]. 
+            HMCCF LTD. Registered in England & Wales. Company Number: 17522756. 
             <br />
-            Registered Office: [TO BE INSERTED].
+            Registered Office: Suite 105 Fence House, Fence Avenue, Macclesfield, United Kingdom, SK10 1LT.
           </p>
         </div>
       </div>
