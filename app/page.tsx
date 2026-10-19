@@ -119,8 +119,7 @@ export default function Home() {
               <div>
                 <div className="text-accent font-heading font-bold text-lg mb-2">Our Experience</div>
                 <h2 className="font-heading text-4xl md:text-5xl font-bold">
-                  5th Edition<br />
-                  Salo Orgullo 2026
+                  5th Edition Salo Orgullo
                 </h2>
               </div>
               <p className="text-lg text-primary-foreground/90">
