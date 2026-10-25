@@ -83,16 +83,16 @@ export default function Contact() {
                 <div>
 <h3 className="font-heading font-bold text-primary mb-1">Phone</h3>
                   <a
-                    href="tel:+447918459275"
+                    href="tel:+443009141056"
                     className="text-muted-foreground hover:text-accent transition-colors block"
                   >
-                    +44 (0) 7918 459275
+                    Office: +44 300 914 1056
                   </a>
                   <a
-                    href="tel:03000141056"
+                    href="tel:+447940900508"
                     className="text-muted-foreground hover:text-accent transition-colors block"
                   >
-                    03000 141056 (Office)
+                    24hrs: +44 7940 900508
                   </a>
                 </div>
               </div>
@@ -201,7 +201,7 @@ export default function Contact() {
                   value={formData.phone}
                   onChange={handleChange}
                   className="w-full px-4 py-3 border border-border rounded-lg bg-background focus:outline-none focus:ring-2 focus:ring-accent transition-all"
-                  placeholder="+44 (0) 7918 459275"
+                  placeholder="Your phone number"
                 />
               </div>
 

@@ -62,7 +62,7 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-start">
             <div className="relative h-96 rounded-lg overflow-hidden shadow-2xl order-2 md:order-1 bg-muted">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-06-07%20at%209.36.51%20PM-6hnrsgxFIs8vw0lP9ETsRCOXmZ3lzL.jpeg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-10-26%20at%2012.27.16%20AM-Ar28IpEKh4y1Zt6mxZIAi0shYZbdiS.jpeg"
                 alt="Óscar Contreras Bárcena, Founder & Director"
                 fill
                 className="object-contain"
